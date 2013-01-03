@@ -8,6 +8,5 @@ This has been tested on Debian Linux (Raspberry Pi) as well as Windows 7 and Mac
 The Android port was tested on a Samsung Galaxy Tab.
 
 See:
-http://pygame.org/news.html
-http://pygame.renpy.org/index.html
+http://pygame.org/news.html and http://pygame.renpy.org/index.html
 
