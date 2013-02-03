@@ -1,6 +1,10 @@
 # Python Curve class
 # Written by Gary S. Worsham
 # January 3, 2013
+# Revision February 3, 2013
+# - Added Spirograph and Harmonograph classes.
+# - previous main curve is now "Lissajous" class.
+# -------------------------------------------------
 # This code covered by the GPLV3 license.
 # See GPLV3.txt for details.
 
